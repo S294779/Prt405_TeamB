@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ShoppingCart.tblItemDetail>
+@{
+    ViewBag.Title = "CartView";
+}
+
+<h2>Cart Items</h2>
+
+<table class="table table-hover">
+    <tbody>
+        <tr>
+            
+                <th>
+                    @Html.DisplayNameFor(model => model.AspNetUser.UserName)
+                </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.ItemName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+           
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                 <td>
+                        @Html.DisplayFor(modelItem => item.AspNetUser.Email)
+                    </td>
+               
+                <td>
+                    @Html.DisplayFor(modelItem => item.ItemName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                
+                <td>
+                    <span>$</span>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.AspNetUser.Email)
+                    </td>*@
+                <td>
+
+                   @Html.ActionLink("Buy", "ItemBuy", new { id = item.Id }) |
+                   @Html.ActionLink("Delete", "DeleteCartItem", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

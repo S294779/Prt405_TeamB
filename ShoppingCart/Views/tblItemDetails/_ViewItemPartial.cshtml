@@ -1,0 +1,67 @@
+﻿@model ShoppingCart.tblItemDetail
+
+<div>
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h4 class="modal-title" id="myModalLabel">Item Details</h4>
+    </div> 
+  @*@using (Html.BeginForm())
+  {*@
+
+    @Html.HiddenFor(model => model.Id)
+
+    <dl class="dl-horizontal">
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.AspNetUser.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AspNetUser.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ItemName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ItemName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            <span>$</span>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        
+    </dl>
+</div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                   @*<input type="submit" value="Add To Cart" class="btn btn-primary" />*@
+                <input type="button" title="AddToCart" value="Add To Cart" class="btn btn-primary" onclick="location.href='@Url.Action("AddToCart", "tblItemDetails", new { id = Model.Id })'" />
+             </div>
+        </div>
+  
+     
+    <br /><br /><br />
+    

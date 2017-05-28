@@ -1,0 +1,73 @@
+﻿@model ShoppingCart.tblItemDetail
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        
+        @if (User.Identity.Name == "admin@admin.com")
+        {
+
+            <dt>
+                @Html.DisplayNameFor(model => model.AspNetUser.UserName)
+            </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.AspNetUser.Email)
+                </dd>
+        }
+        <dt>
+            @Html.DisplayNameFor(model => model.ItemName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ItemName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            <span>$</span>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.AspNetUser.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AspNetUser.Email)
+        </dd>*@
+
+    </dl>
+</div>
+<p>
+    @if (User.Identity.Name != "admin@admin.com")
+    {
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) <span>|</span>
+    }
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,79 @@
+﻿@model IEnumerable<ShoppingCart.tblItemDetail>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @if (User.Identity.Name != "admin@admin.com")
+    {
+        @Html.ActionLink("Create New", "Create")
+    }
+</p>
+<table class="table table-hover">
+    <tbody>
+        <tr>
+            @if (User.Identity.Name == "admin@admin.com")
+            {
+                <th>
+                    @Html.DisplayNameFor(model => model.AspNetUser.UserName)
+                </th>
+            }
+            <th>
+                @Html.DisplayNameFor(model => model.ItemName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.AspNetUser.Email)
+                </th>*@
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                @if (User.Identity.Name == "admin@admin.com")
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AspNetUser.Email)
+                    </td>
+                }
+                <td>
+                    @Html.DisplayFor(modelItem => item.ItemName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+                <td>
+                    <span>$</span>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                @*<td>
+                        @Html.DisplayFor(modelItem => item.AspNetUser.Email)
+                    </td>*@
+                <td>
+
+                    @if (User.Identity.Name != "admin@admin.com")
+                    {
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) <span>|</span>
+                    }
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

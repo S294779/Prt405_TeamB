@@ -1,0 +1,328 @@
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\ApplicationInsights.config
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\csc.exe
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\vbc.exe
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\VBCSCompiler.exe
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Antlr3.Runtime.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\EntityFramework.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.Web.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Newtonsoft.Json.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Owin.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.Helpers.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.Mvc.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.Optimization.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.Razor.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.WebPages.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.WebPages.Razor.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\WebGrease.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.Web.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.Helpers.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.Mvc.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.Optimization.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.Razor.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.WebPages.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\System.Web.WebPages.Razor.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Antlr3.Runtime.pdb
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Newtonsoft.Json.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\EntityFramework.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\RK\Source\Repos\NewTestGithub\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\ApplicationInsights.config
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\csc.exe
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\vbc.exe
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\VBCSCompiler.exe
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Antlr3.Runtime.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.Web.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Newtonsoft.Json.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Owin.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.Helpers.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.Mvc.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.Optimization.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.Razor.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Razor.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\WebGrease.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.Web.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.Helpers.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.Mvc.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.Optimization.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.Razor.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Razor.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Antlr3.Runtime.pdb
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Newtonsoft.Json.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\RK\Source\Repos\Assignment2_PRT405\ShoppingCart\obj\Debug\ShoppingCart.pdb
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\ApplicationInsights.config
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\csc.exe
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\vbc.exe
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\VBCSCompiler.exe
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\ShoppingCart.dll.config
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\ShoppingCart.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\ShoppingCart.pdb
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Antlr3.Runtime.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.SqlServer.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.Agent.Intercept.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.DependencyCollector.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.Web.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.WindowsServer.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.ApplicationInsights.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Core.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Cookies.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Facebook.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Google.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.OAuth.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Twitter.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Newtonsoft.Json.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Owin.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Helpers.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Mvc.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Optimization.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Razor.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Deployment.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Razor.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\WebGrease.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.DependencyCollector.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.Web.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.WindowsServer.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.ApplicationInsights.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Helpers.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Mvc.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Optimization.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Razor.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Deployment.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Razor.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Antlr3.Runtime.pdb
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Newtonsoft.Json.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.SqlServer.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Core.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Facebook.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Cookies.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.OAuth.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Google.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Twitter.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\New folder\Assignment2_PRT405\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+F:\New folder\Assignment2_PRT405\ShoppingCart\obj\Debug\ShoppingCart.dll
+F:\New folder\Assignment2_PRT405\ShoppingCart\obj\Debug\ShoppingCart.pdb
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\ApplicationInsights.config
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\csc.exe
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\vbc.exe
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\VBCSCompiler.exe
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\ShoppingCart.dll.config
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\ShoppingCart.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\ShoppingCart.pdb
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Antlr3.Runtime.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.SqlServer.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.Agent.Intercept.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.DependencyCollector.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.Web.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.WindowsServer.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.ApplicationInsights.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Core.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Cookies.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Facebook.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Google.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.OAuth.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Twitter.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Newtonsoft.Json.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Owin.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Helpers.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Mvc.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Optimization.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Razor.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Deployment.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Razor.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\WebGrease.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.DependencyCollector.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.Web.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AI.WindowsServer.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.ApplicationInsights.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Helpers.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Mvc.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Optimization.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.Razor.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Deployment.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\System.Web.WebPages.Razor.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Antlr3.Runtime.pdb
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Newtonsoft.Json.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\EntityFramework.SqlServer.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Core.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Facebook.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Cookies.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.OAuth.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Google.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.Twitter.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\New folder\Assignment2_PRT405\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+H:\New folder\Assignment2_PRT405\ShoppingCart\obj\Debug\ShoppingCart.dll
+H:\New folder\Assignment2_PRT405\ShoppingCart\obj\Debug\ShoppingCart.pdb
